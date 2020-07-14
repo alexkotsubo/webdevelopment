@@ -30,6 +30,7 @@ check.addEventListener('click', function(e) {
 
 document.documentElement.addEventListener('click', function(e) {
 	if (!e.target.closest('.burger') || e.target.closest('.black-bg')) {
+		body.style.overflow = 'auto';
 		check.checked = false;
 	}
 });
