@@ -2109,7 +2109,7 @@ li {
 	}
 }
 
-@media (orientation: landscape) and (max-width: 991px) {
+@media (orientation: landscape) and (max-width: 1199px) {
 	/* Header */
 
 	.header-blur {
