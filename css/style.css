@@ -1819,7 +1819,8 @@ li {
 	}
 
 	.contact-info-block {
-		padding: 0 
+		padding: 0;
+	}
 }
 
 @media (max-width: 767px) {
