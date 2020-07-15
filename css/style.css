@@ -1600,6 +1600,77 @@ li {
 	}
 }
 
+@media (orientation: landscape) and (max-width: 991px) {
+	/* Header */
+
+	.header-blur {
+		padding: 80px 0 50px 0;
+	}
+
+	.header-btn {
+		margin-top: 80px;
+	}
+
+	/* About */
+
+	.about {
+		padding: 70px 0;
+	}
+
+	.about-block {
+		margin-top: 60px;
+	}
+
+	/* Portfolio */
+
+	.portfolio {
+		padding: 70px 0;
+	}
+
+	.tabs {
+		margin-top: 60px;
+	}
+
+	.tabs-content {
+		margin-top: 30px;
+	}
+
+	.tabs-bottom-btn {
+		margin-top: 60px;
+	}
+
+	/* Pricing */
+
+	.pricing {
+		padding: 70px 0;
+	}
+
+	.pricing-block {
+		margin-top: 60px;
+	}
+
+	.pricing-header {
+		margin-top: -125px !important;
+		padding-bottom: 15px !important;
+	}
+
+	.pricing-header-heading {
+		font-size: 20px;
+	}
+
+	.pricing-price {
+		font-size: 40px;
+	}
+
+	.pricing-plan-text:first-child {
+		margin-top: 30px !important;
+	}
+
+	.pricing-content {
+		padding-bottom: 40px;
+	}
+}
+
 @media (max-width: 991px) {
 	.container {
 		max-width: 1200px;
@@ -1607,6 +1678,14 @@ li {
 	}
 
 	/* Header */
+
+	.header {
+		margin-top: 94px;
+	}
+
+	.nav {
+		padding: 30px 0;
+	}
 
 	.burg-menu {
 		width: 60%;
@@ -1964,14 +2043,6 @@ li {
 
 @media (max-width: 575px) {
 	/* Header */
-
-	.header {
-		margin-top: 94px;
-	}
-
-	.nav {
-		padding: 30px 0;
-	}
 
 	.header-blur {
 		padding: 70px 0 40px 0;
