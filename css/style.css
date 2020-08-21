@@ -699,6 +699,7 @@ li {
 .tab-btn {
 	margin-right: 20px;
 	margin-top: 20px;
+	cursor: pointer;
 }
 
 .tab-btn:last-child {
@@ -1138,10 +1139,6 @@ li {
 
 .team-slider-list .slick-list {
 	overflow: hidden;
-}
-
-.slick-slide {
-	
 }
 
 .team-slider-list .slick-track {
@@ -2114,7 +2111,7 @@ li {
 	/* Header */
 
 	.header-blur {
-		padding: 80px 0 50px 0;
+		padding: 70px 0 50px 0;
 	}
 
 	.header-btn {
