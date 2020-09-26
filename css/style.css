@@ -1660,6 +1660,14 @@ li {
 		margin-right: 15px;
 	}
 
+	.tab-cart .tab-blur {
+		background: rgba(0, 0, 0, .6);
+	}
+
+	.tab-cart .tab-text {
+		opacity: 1;
+	}
+
 	/* Pricing */
 
 	.pricing-block {
